@@ -1,0 +1,7 @@
+# Hello World in C
+
+# Compile Command
+cc hello.c
+
+# Run file
+./a.out
